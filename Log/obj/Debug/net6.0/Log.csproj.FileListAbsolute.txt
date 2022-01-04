@@ -1,0 +1,13 @@
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\bin\Debug\net6.0\NLog.config
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\bin\Debug\net6.0\Log.deps.json
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\bin\Debug\net6.0\Log.dll
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\bin\Debug\net6.0\ref\Log.dll
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\bin\Debug\net6.0\Log.pdb
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\Log.csproj.AssemblyReference.cache
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\Log.AssemblyInfoInputs.cache
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\Log.AssemblyInfo.cs
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\Log.csproj.CoreCompileInputs.cache
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\Log.dll
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\ref\Log.dll
+C:\Users\victor.chen\Desktop\Test\C#TestCode\Log\Log\obj\Debug\net6.0\Log.pdb
