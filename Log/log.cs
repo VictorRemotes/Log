@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NLog;
+﻿using NLog;
 
 namespace Log
 {
-    internal class Log:Ilog
+    public class log:Ilog
     {
         private static Logger logger = LogManager.GetCurrentClassLogger();
         public void write(string Content, LevelEnum level)

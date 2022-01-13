@@ -1,0 +1,5 @@
+C:\Users\victor.chen\Documents\GitHub\Log-\Log\obj\Debug\net472\Log.csproj.AssemblyReference.cache
+C:\Users\victor.chen\Documents\GitHub\Log-\Log\obj\Debug\net472\Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.chen\Documents\GitHub\Log-\Log\obj\Debug\net472\Log.AssemblyInfoInputs.cache
+C:\Users\victor.chen\Documents\GitHub\Log-\Log\obj\Debug\net472\Log.AssemblyInfo.cs
+C:\Users\victor.chen\Documents\GitHub\Log-\Log\obj\Debug\net472\Log.csproj.CoreCompileInputs.cache

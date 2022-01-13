@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.chen\\Desktop\\Test\\C#TestCode\\Log\\Log\\Log.csproj": {}
+    "C:\\Users\\victor.chen\\Documents\\GitHub\\Log-\\Log\\Log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.chen\\Desktop\\Test\\C#TestCode\\Log\\Log\\Log.csproj": {
+    "C:\\Users\\victor.chen\\Documents\\GitHub\\Log-\\Log\\Log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.chen\\Desktop\\Test\\C#TestCode\\Log\\Log\\Log.csproj",
+        "projectUniqueName": "C:\\Users\\victor.chen\\Documents\\GitHub\\Log-\\Log\\Log.csproj",
         "projectName": "Log",
-        "projectPath": "C:\\Users\\victor.chen\\Desktop\\Test\\C#TestCode\\Log\\Log\\Log.csproj",
+        "projectPath": "C:\\Users\\victor.chen\\Documents\\GitHub\\Log-\\Log\\Log.csproj",
         "packagesPath": "C:\\Users\\victor.chen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.chen\\Desktop\\Test\\C#TestCode\\Log\\Log\\obj\\",
+        "outputPath": "C:\\Users\\victor.chen\\Documents\\GitHub\\Log-\\Log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.chen\\AppData\\Roaming\\NuGet\\NuGet.Config",

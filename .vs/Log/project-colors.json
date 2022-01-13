@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "701c3e31-c73d-4f12-82c9-1e3908277adc": {
+      "ProjectGuid": "701c3e31-c73d-4f12-82c9-1e3908277adc",
+      "DisplayName": "Log",
+      "ColorIndex": 0
+    },
+    "3fb53933-c9ee-4d5a-b73c-191dd88a88a6": {
+      "ProjectGuid": "3fb53933-c9ee-4d5a-b73c-191dd88a88a6",
+      "DisplayName": "UnitTestLog",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    },
+    "5f21b278-0126-4863-8be9-910d7f300e21": {
+      "ProjectGuid": "5f21b278-0126-4863-8be9-910d7f300e21",
+      "DisplayName": "TestProject",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

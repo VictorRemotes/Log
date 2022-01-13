@@ -1,0 +1,2 @@
+C:\Users\victor.chen\Documents\GitHub\Log-\UnitTestLog\obj\Debug\UnitTestLog.csproj.AssemblyReference.cache
+C:\Users\victor.chen\Documents\GitHub\Log-\UnitTestLog\obj\Debug\UnitTestLog.csproj.CoreCompileInputs.cache
